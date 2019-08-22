@@ -4,7 +4,7 @@
   <a>
     <img src="https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217" alt="Logo" width="230" height="107">
   </a>
-  <h2 align="center">Data Analytics: PlayerUnknown’s Battlegrounds </h2>
+  <h2 align="center">Game Analytics: PlayerUnknown’s Battlegrounds </h2>
 
   <p align="center">
     Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)
