@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217" alt="Logo" width="230" height="107">
+    <img src="https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217" alt="Logo" width="460" height="214">
   </a>
   <h2 align="center">Game Analytics: PlayerUnknown’s Battlegrounds </h2>
 
