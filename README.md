@@ -18,16 +18,3 @@ The main goal of this project was to identify cheaters in PlayerUnknown’s Batt
 For more information: 
 <p>- <a href="Presentation_Markdown.html" target="_blank">Markdown</a>
 <p>- <a href="Project_Report.pdf" target="_blank">Project Report</a>
-
-<!-- CONTACT -->
-## Contact
-Alex (Jiahao) Huo: 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Email][email-shield]][email-url]
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jiahaohuo/
-[email-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=flat-square&logo=gmail&colorB=555
-[email-url]: mailto:jiahao.h@columbia.edu
