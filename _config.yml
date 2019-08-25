@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 logo: "images/logo.jpg"
-title: "Anomaly Detection"
-description: Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)
+title: "Anomaly Detection: Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)"
+description: Implemented One-Class SVM and Isolation Forest to detect cheaters, and defined metrics to evaluate the results of unsupervised learning models. 
