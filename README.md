@@ -1,4 +1,4 @@
-## About the project
+# About the project
 The main goal of this project was to identify cheaters in PlayerUnknown’s Battlegrounds (PUBG), one of the most popular games in the world, using anomaly detection. The analysis was based on the assumption that cheaters are players who have absurdly above-average performance in games.
 
 * Data: 4 million players' match summaries collected through *PUBG Developer API* with 29 features
