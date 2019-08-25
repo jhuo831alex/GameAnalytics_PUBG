@@ -30,7 +30,7 @@ The main goal of this project was to catch cheaters in PlayerUnknown’s Battleg
   * Regarded the overlapping population to be highly likely to be cheaters
 
 For more information: 
-- [Markdown](https://github.com/jhuo831alex/DataAnalytics_PUBG/blob/master/Presentation%20Markdown_files/Presentation%20Markdown.md) 
+- [Markdown](Presentation Markdown.html) 
 - [Report](https://github.com/jhuo831alex/DataAnalytics_PUBG/blob/master/Final%20Report.pdf)
 
 <!-- CONTACT -->
