@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: "https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217"
-title: "Game Analytics: Identify Cheaters in game PlayerUnknown’s Battlegrounds"
-description: random things
+logo: "images/logo.jpg"
+title: "Anomaly Detection"
+description: Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)
