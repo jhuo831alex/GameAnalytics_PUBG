@@ -11,6 +11,7 @@
   </p>
 </p>
 
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217" alt="Logo">
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
