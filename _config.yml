@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 logo: "images/logo.jpg"
 title: "Anomaly Detection"
 description: Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)
