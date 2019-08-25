@@ -16,8 +16,8 @@ The main goal of this project was to identify cheaters in PlayerUnknown’s Batt
   * Regarded the overlapping population to be highly likely to be cheaters
 
 For more information: 
-<p>-<a href="Presentation_Markdown.html" target="_blank">Markdown</a>
-<p>-<a href="Project_Report.pdf" target="_blank">Project Report</a>
+<p>- <a href="Presentation_Markdown.html" target="_blank">Markdown</a>
+<p>- <a href="Project_Report.pdf" target="_blank">Project Report</a>
 
 <!-- CONTACT -->
 ## Contact
