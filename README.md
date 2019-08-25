@@ -1,18 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a>
-    <img src="https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1564606217" alt="Logo" width="460" height="214">
-  </a>
-  <h2 align="center">Game Analytics: PlayerUnknown’s Battlegrounds </h2>
-
-  <p align="center">
-    Identify Cheaters in game PlayerUnknown’s Battlegrounds (PUBG)
-  </p>
-</p>
-
-<!-- ABOUT THE PROJECT -->
-## About the project XXX
+## About the project
 The main goal of this project was to catch cheaters in PlayerUnknown’s Battlegrounds (PUBG), one of the most popular games in the world, using anomaly detection. Our analysis is based on the assumption that cheaters are players who have absurdly above-average performance in games.
 
 * Data: 4 million players' match summaries with 29 features
@@ -30,6 +16,8 @@ The main goal of this project was to catch cheaters in PlayerUnknown’s Battleg
 
 For more information: 
 <p>-<a href="Presentation_Markdown.html" target="_blank">Markdown</a>
+<p>-<a href="Project\ Report.pdf" target="_blank">Project Report</a>
+
 - [Markdown](#Presentation_Markdown.html) 
 - [Report](https://github.com/jhuo831alex/DataAnalytics_PUBG/blob/master/Final%20Report.pdf)
 
